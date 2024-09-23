@@ -1,5 +1,5 @@
 # Оптическая передача данных для управления БЛА, BRICS-2024
-![](https://sng-atom.mephi.ru/wp-content/uploads/2021/07/CVoVjrDU8AIUR3I.jpg)
+![](./main/logo_mephi.png)
 
 ## Цели проекта
 + Осуществление преобразования данных ввода в оптический сигнал
