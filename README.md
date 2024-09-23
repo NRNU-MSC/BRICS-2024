@@ -1,5 +1,5 @@
 # Оптическая передача данных для управления БЛА, BRICS-2024
-![](./main/logo_mephi.png)
+![](https://github.com/NRNU-MSC/Optical-Information_Transmission/blob/main/logo_mephi.jpg?raw=true)
 
 ## Цели проекта
 + Осуществление преобразования данных ввода в оптический сигнал
